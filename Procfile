@@ -1,0 +1,1 @@
+web: gunicorn loans.wsgi --log-file -
